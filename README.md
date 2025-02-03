@@ -2,6 +2,7 @@
 # Overview
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+In this project we are experimenting with Rust programming language to create an Elliptic Curve Cryptography (ECC) to encrypt and Decrypt files.
 
 {Provide a description of your software}
 
