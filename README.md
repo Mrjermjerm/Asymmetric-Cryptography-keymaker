@@ -1,8 +1,6 @@
-# Asymmetric-Cryptography-keymaker
-# Overview
+# Asymmetric Cryptography Keymaker - Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-In this project we are experimenting with Rust programming language to create an Elliptic Curve Cryptography (ECC) to encrypt and Decrypt files.
+In this project we are experimenting with Rust programming language to create an Elliptic Curve Cryptography (ECC) to encrypt and Decrypt files. This program stretched our knowledge of programming languages by using Rust, and required lots of learning to implement Cryptography and understand how the mathmatics works.
 
 {Provide a description of your software}
 
