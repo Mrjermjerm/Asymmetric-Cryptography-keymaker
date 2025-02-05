@@ -2,7 +2,7 @@
 
 In this project we are experimenting with Rust programming language to create an Elliptic Curve Cryptography (ECC) to encrypt and Decrypt files. This program stretched our knowledge of programming languages by using Rust, and required lots of learning to implement Cryptography and understand how the mathmatics works.
 
-![y^2=x^3+2x+2](https://github.com/Ambrosius1963/Asymmetric-Cryptography-keymaker/blob/y^2=x^3+2x+2.jpg?raw=true)
+![y^2=x^3+2x+2](https://github.com/Ambrosius1963/Asymmetric-Cryptography-keymaker/blob/y^2=x^3+2x+2.png?raw=true)
 
 {Provide a description of your software}
 
