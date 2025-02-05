@@ -2,7 +2,7 @@
 
 In this project we are experimenting with Rust programming language to create an Elliptic Curve Cryptography (ECC) to encrypt and Decrypt files. This program stretched our knowledge of programming languages by using Rust, and required lots of learning to implement Cryptography and understand how the mathmatics works.
 
-![curve](https://github.com/Ambrosius1963/Asymmetric-Cryptography-keymaker/blob/8ed1e65875ab66b0321d3efba69dabde687d9e0e/blob/y%5E2%3Dx%5E3%2B2x%2B2.png?raw=true)
+![curve](https://github.com/Ambrosius1963/Asymmetric-Cryptography-keymaker/blob/11a8110adf47ffb42494c1b47e928a61325645ed/blob/Graphs.png?raw=true)
 
 {Provide a description of your software}
 
