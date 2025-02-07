@@ -17,7 +17,7 @@ The purpose of this software is to provide a practical demonstration of ECC key 
 *   **Rust Compiler (rustc):** Used for compiling the Rust code.
 *   **Cargo:** Rust's package manager, used for managing dependencies and building the project.
 *   **Git:** Used for version control and collaboration (as evidenced by the GitHub link).
-*   ![curve](https://github.com/Ambrosius1963/Asymmetric-Cryptography-keymaker/blob/11a8110adf47ffb42494c1b47e928a61325645ed/blob/Graphs.png?raw=true)
+*   ![Different Eliptical Curve Designs](https://github.com/Ambrosius1963/Asymmetric-Cryptography-keymaker/blob/11a8110adf47ffb42494c1b47e928a61325645ed/blob/Graphs.png?raw=true)
 
 ## Programming Language
 
@@ -27,5 +27,5 @@ The purpose of this software is to provide a practical demonstration of ECC key 
 
 *   [Rust Programming Language](https://www.rust-lang.org/)
 *   [Wikipedia: Elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
-*   [Elliptic Curve Cryptography Tutorial 1](https://www.youtube.com/watch?v=gAtBM06xwaw)
-*   [Elliptic Curve Cryptography Tutorial 2](https://www.youtube.com/watch?v=wpLQZhqdPaA)
+*   [Elliptic Curve Cryptography Tutorial](https://www.youtube.com/watch?v=gAtBM06xwaw)
+*   [Elliptic Curve key pair generation](https://www.youtube.com/watch?v=wpLQZhqdPaA)
