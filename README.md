@@ -32,3 +32,7 @@ The purpose of this software is to provide a practical demonstration of ECC key 
 *   [Wikipedia: Elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
 *   [Elliptic Curve Cryptography Tutorial](https://www.youtube.com/watch?v=gAtBM06xwaw)
 *   [Elliptic Curve key pair generation](https://www.youtube.com/watch?v=wpLQZhqdPaA)
+
+# Math Walk Through
+
+Please see the Elliptic Curve Cryptography in Asymmetric Cryptography doc. for a walk through of the math.
