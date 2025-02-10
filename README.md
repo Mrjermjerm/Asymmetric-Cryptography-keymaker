@@ -1,5 +1,3 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?E449D7A305AF9D6B656800797A57921790CF
-
 # Asymmetric Cryptography Keymaker - Overview
 
 This project implements Elliptic Curve Cryptography (ECC) in Rust to generate key pairs for file encryption and decryption.  It explores the mathematical concepts behind ECC and demonstrates their practical application using the Rust programming language.  This involved significant learning and implementation of cryptographic algorithms and a deeper understanding of the underlying mathematics.
